@@ -6,8 +6,8 @@ Excel-ის დეშბორდი ავტოპარკის ხარ�
 რაში იხარჯება ავტოპარკის ბიუჯეტი ყველაზე მეტად (საწვავი, ტექნიკური მომსახურება, ობიექტები) და რა ზომები უნდა მიიღოს მენეჯმენტმა ხარჯების შესამცირებლად?
 
 ## დეშბორდი
-![Dashboard top](fleet-dashboard.1.png)
-![Dashboard bottom](fleet-dashboard.2.png)
+![Dashboard top](fleet-dashboard.1.PNG)
+![Dashboard bottom](fleet-dashboard.2.PNG)
 
 ## მთავარი მიგნებები და რეკომენდაციები
 ![Findings](fleet-findings.png)
